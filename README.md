@@ -3,8 +3,7 @@ Machine Learning-584  Project
 
 # Project Team:
 
-Shashank Kulkarni - A20542907
-
+Shashank Kulkarni - A20542907/n
 Soham Mankar - A20543251
 
 # Dataset Overview
